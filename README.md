@@ -12,7 +12,7 @@ Online flight reservation system (server side)
  OBJECTIVES
 --------------------------------
 To acquire practical experience with Intellij IDEA by applying the fundamental concepts and techniques taught in the course.
-By the end of this project you'll be equiped with the skills and experience to tackle with confidence the use of Intellij IDEA on any real-world Software system using the awesome Intellij IDEA framework!
+By the end of this project you'll be equiped with the skills and experience to tackle with confidence the use of Intellij IDEA on any real-world Software system!
  
 --------------------------------
  DESCRIPTION
